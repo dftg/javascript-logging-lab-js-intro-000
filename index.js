@@ -1,3 +1,1 @@
-console.error("is this working?");
-console.log("log this");
-console.warn("warning");
+var a = 5, b = 2, c = 3, d = 'hello', e = 'goodbye'
